@@ -15,5 +15,5 @@ variable "cidr_block_id" {
 }
 
 variable "subnet-1-cidr" {
-    default = "10.10.1.0/16"
+    default = "10.10.1.0/24"
 }
